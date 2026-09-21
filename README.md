@@ -1,6 +1,6 @@
 # Pink Wordle 🌸
 
-A cozy, pastel-pink take on Wordle — built with [Expo](https://expo.dev). Guess the 5-letter word in 5 tries, with a soft, minimal keyboard and board.
+A cozy, pastel-pink take on Wordle — built with [Expo](https://expo.dev). Guess the word (3 to 6 letters) in the same number of tries as its length, with a soft, minimal keyboard and board.
 
 ## Screenshots
 
@@ -11,14 +11,14 @@ A cozy, pastel-pink take on Wordle — built with [Expo](https://expo.dev). Gues
 
 ## Features
 
-- Classic Wordle gameplay — 5 letters, 5 guesses
+- Wordle gameplay with variable word length (3 to 6 letters), matching number of guesses
 - Clean pink/pastel theme
 - On-screen QWERTY keyboard
 - Built and deployed with Expo
 
 ## Download
 
-📲 **[Try Pink Wordle here](https://github.com/145695/my_pink_wordle/releases/download/wordle/application-dd8e9615-555d-4bf4-b5c7-076892750fa2.apk)**
+📲 **[Download the APK](https://github.com/145695/my_pink_wordle/releases/download/wordle/application-dd8e9615-555d-4bf4-b5c7-076892750fa2.apk)**
 
 ## Built With
 
